@@ -1,0 +1,265 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202303 will be lost/reset.
+# Last config file used to build this data file was /home/polesbal/tmp/awstats/ssl/awstats.polesbalsem.id.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2675                
+POS_VISITOR 6644                
+POS_DAY 7136                
+POS_DOMAIN 3293                
+POS_LOGIN 3534                
+POS_ROBOT 3689                
+POS_WORMS 3894                
+POS_EMAILSENDER 4025                
+POS_EMAILRECEIVER 4168                
+POS_SESSION 7260                
+POS_SIDER 7417                
+POS_FILETYPES 4303                
+POS_DOWNLOADS 4453                
+POS_OS 4501                
+POS_BROWSER 4613                
+POS_SCREENSIZE 4751                
+POS_UNKNOWNREFERER 4825                
+POS_UNKNOWNREFERERBROWSER 4912                
+POS_ORIGIN 4994                
+POS_SEREFERRALS 5128                
+POS_PAGEREFS 5272                
+POS_SEARCHWORDS 6017                
+POS_KEYWORDS 6169                
+POS_MISC 2339                
+POS_ERRORS 6228                
+POS_CLUSTER 3390                
+POS_SIDER_404 6335                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230401033907 3 197 4691233993126
+FirstTime 0
+LastTime 20230328091612
+LastUpdate 20230401215028 3 0 2 0 0
+TotalVisits 11                  
+TotalUnique 11                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 11                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 6 6 1368
+1 5 14 133231 13 13 3114
+2 0 0 0 4 4 912
+3 13 32 318010 10 10 3913
+4 2 2 74744 13 13 3653
+5 0 0 0 25 25 5970
+6 0 0 0 14 14 2823
+7 0 0 0 31 31 7324
+8 1 1 37366 30 30 8065
+9 1 1 37378 92 92 23895
+10 0 0 0 34 34 8806
+11 0 0 0 63 63 16087
+12 0 0 0 51 51 12487
+13 0 0 0 21 21 5021
+14 0 0 0 11 11 2327
+15 0 0 0 38 38 9540
+16 0 0 0 10 10 4659
+17 0 0 0 11 11 2673
+18 0 0 0 23 23 6453
+19 0 0 0 13 13 3484
+20 0 0 0 4 4 1242
+21 0 0 0 26 26 6768
+22 0 0 0 29 29 6947
+23 0 0 0 11 11 3509
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+us 13 41 376497
+fr 9 9 224232
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+java 376 97804 20230331121536 0
+no_user_agent 190 42408 20230331214056 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 6 101127 0 0
+png 18 14382 0 0
+html 13 272890 0 0
+woff 9 204000 0 0
+svg 4 8330 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+linuxubuntu 9 9
+win7 1 1
+linux 27 8
+win10 13 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 4
+chrome83.0.4103.61 1 1
+firefox58.0 9 9
+chrome79.0.3945.79 13 4
+chrome110.0.5481.77 27 8
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 11 11
+From1 0 0
+From2 0 0
+From3 11 39
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+https://webmail.polesbalsem.id/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/open_sans.min.css 6 6
+https://cpanel.polesbalsem.id/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/open_sans.min.css 3 3
+http://cpanel.polesbalsem.id 1 1
+http://webmail.polesbalsem.id 1 1
+https://cpanel.polesbalsem.id/cPanel_magic_revision_1677162688/unprotected/cpanel/style_v2_optimized.css 0 7
+https://webmail.polesbalsem.id 0 6
+https://cpanel.polesbalsem.id 0 3
+https://webmail.polesbalsem.id/cPanel_magic_revision_1677162688/unprotected/cpanel/style_v2_optimized.css 0 12
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 8 9832
+401 6 244
+302 3 752
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 11
+205.169.39.255 5 14 133231 20230310015847
+65.154.226.166 4 14 122199 20230309032705
+65.154.226.170 4 13 121067 20230309032659
+51.255.62.2 2 2 74744 20230328033504
+51.255.62.7 1 1 0 20230328033504
+51.255.62.11 1 1 0 20230328033504
+188.165.87.98 1 1 37366 20230328045207
+188.165.87.96 1 1 37378 20230328045206
+51.254.49.104 1 1 37366 20230328082409
+51.255.62.4 1 1 0 20230328033504
+51.254.49.108 1 1 37378 20230328091612
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 3
+20230309 8 27 243266 2
+20230310 5 14 133231 1
+20230328 9 9 224232 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 10
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 13 272890 11 8
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 3 67296 0 2
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 3 67980 0 0
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 3 68724 0 1
+END_SIDER

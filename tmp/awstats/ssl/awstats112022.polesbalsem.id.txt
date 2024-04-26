@@ -1,0 +1,305 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202211 will be lost/reset.
+# Last config file used to build this data file was /home/polesbal/tmp/awstats/ssl/awstats.polesbalsem.id.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2686                
+POS_VISITOR 6312                
+POS_DAY 6677                
+POS_DOMAIN 3251                
+POS_LOGIN 3497                
+POS_ROBOT 3652                
+POS_WORMS 3931                
+POS_EMAILSENDER 4062                
+POS_EMAILRECEIVER 4205                
+POS_SESSION 6832                
+POS_SIDER 7020                
+POS_FILETYPES 4340                
+POS_DOWNLOADS 4548                
+POS_OS 4596                
+POS_BROWSER 4699                
+POS_SCREENSIZE 4823                
+POS_UNKNOWNREFERER 4897                
+POS_UNKNOWNREFERERBROWSER 5056                
+POS_ORIGIN 5210                
+POS_SEREFERRALS 5346                
+POS_PAGEREFS 5490                
+POS_SEARCHWORDS 5638                
+POS_KEYWORDS 5790                
+POS_MISC 2350                
+POS_ERRORS 5849                
+POS_CLUSTER 3353                
+POS_SIDER_404 5982                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20221201030134 1 0 9740145597927
+FirstTime 20221103080133
+LastTime 20221129162955
+LastUpdate 20221201033346 1 0 0 0 0
+TotalVisits 10                  
+TotalUnique 7                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 7                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 5 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 36 52 1091100 3 4 414
+1 0 0 0 0 0 0
+2 0 0 0 1 1 32183
+3 0 0 0 1 1 35
+4 0 0 0 0 0 0
+5 0 0 0 1 1 35
+6 0 0 0 1 1 374
+7 1 1 919 5 5 5314
+8 24 31 1272958 15 17 2666
+9 44 48 1128734 14 15 36825
+10 13 15 527114 4 4 527
+11 1 4 583057 1 2 166
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 3 3 34097 0 0 0
+15 0 0 0 4 4 921
+16 39 49 254748 6 6 16061
+17 0 0 0 0 0 0
+18 0 0 0 1 1 32171
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 1 1 35
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+in 118 147 4020825
+id 43 56 871902
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+survey 2 64366 20221108095533 0
+no_user_agent 2 32171 20221123152642 0
+TelegramBot 1 918 20221128073143 0
+Apache\-HttpClient/ 1 0 20221105160719 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+png 4 339184 0 0
+jpg 9 698508 0 0
+php 1 11373 0 0
+js 16 2957508 0 0
+Unknown 144 244144 0 0
+map 2 432470 0 0
+css 13 168684 0 0
+html 14 40856 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+linux 53 40
+Unknown 7 7
+win10 143 114
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 4
+firefox64.0 3 3
+chrome107.0.0.0 177 139
+chrome106.0.0.0 16 12
+Unknown 7 7
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+PostmanRuntime/7.29.2 20221128094905
+WhatsApp/2.2241.7_N 20221103080151
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WhatsApp/2.2241.7_N 20221103080151
+PostmanRuntime/7.29.2 20221128094905
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 25 25
+From1 0 0
+From2 0 0
+From3 0 0
+From4 136 178
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+401 4 140
+419 2 4082
+500 12 15705
+404 2 4064
+302 32 6281
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 2
+/api/v1 1 -
+/api 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 7
+103.213.128.138 72 88 1583281 20221128094905
+114.10.20.27 39 49 254748 20221129162955
+103.107.244.224 24 30 1165372 20221108105717
+103.213.129.242 20 24 687893 20221103083854
+180.243.6.38 3 3 34097 20221103140710
+103.213.128.22 2 5 584279 20221108083614
+114.10.4.205 1 4 583057 20221129112216
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20221103 35 43 1360248 3
+20221108 14 19 1111393 2
+20221128 72 88 1583281 3
+20221129 40 53 837805 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30mn-1h 2
+0s-30s 4
+2mn-5mn 2
+15mn-30mn 1
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 40
+/antrean/data 19 58049 0 1
+/login 16 13852 7 3
+/ 14 40856 0 2
+/ambilAntrianPendaftaran 14 12166 0 1
+/poli/data 9 12772 0 1
+/antrean/antreanPendaftaran 8 42831 0 0
+/antrean/panggilAntrean 7 2632 0 0
+/poli 6 11326 0 0
+/antrean/createAntrean 6 4392 0 0
+/ambilAntreanPendaftaran 6 7860 0 0
+/bpjsAntrol/getReferensiJadwalDokter 5 1320 0 0
+/antrean/updateAntreanPendaftaran 5 285 0 0
+/antrean/antreanPoli 4 17010 0 0
+/dokter/data 3 9622 0 0
+/api/v1/getToken 3 1179 1 0
+/bpjsVclaim/getPesertaByNIK 3 2328 0 0
+/antrean/data/149 2 6847 0 0
+/antrean/setAktifLoket 2 508 0 0
+/antrean/data/150 2 6839 0 0
+/antrean/data/147 2 6747 0 0
+/loket 2 5032 0 0
+/bpjsVclaim/getRujukanFaskesRS 2 658 0 0
+/plugin/parsleyjs/dist/parsley.min.js.map 2 432470 0 0
+/dokter 2 5028 0 0
+/loket/data 2 3171 0 0
+/antrean/cetakAntrean/145 1 311 0 0
+/antrean/cetakAntrean/148 1 310 0 0
+/antrean/previewAntreanPendaftaran 1 2215 0 0
+/api/v1/getSampleData 1 105 0 1
+/antrean/cetakAntrean/147 1 310 0 0
+/antrean/cetakAntrean/149 1 311 0 0
+/index.php/login 1 926 1 0
+/administrator/index.php 1 11373 1 0
+/antrean/antreanFarmasi 1 3910 0 0
+/antrean/data/148 1 2564 0 0
+/antrean/cetakAntrean/150 1 311 0 0
+/antrean/cetakAntrean/146 1 312 0 1
+/poli/syncData 1 0 0 0
+/dokter/syncData 1 0 0 0
+/api/v1/statusAntrean 1 105 0 0
+END_SIDER

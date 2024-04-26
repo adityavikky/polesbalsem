@@ -1,0 +1,1021 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202210 will be lost/reset.
+# Last config file used to build this data file was /home/polesbal/tmp/awstats/ssl/awstats.polesbalsem.id.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2675                
+POS_VISITOR 41798               
+POS_DAY 47061               
+POS_DOMAIN 3356                
+POS_LOGIN 3796                
+POS_ROBOT 3951                
+POS_WORMS 4452                
+POS_EMAILSENDER 4583                
+POS_EMAILRECEIVER 4726                
+POS_SESSION 47633               
+POS_SIDER 47823               
+POS_FILETYPES 4861                
+POS_DOWNLOADS 5087                
+POS_OS 5135                
+POS_BROWSER 5486                
+POS_SCREENSIZE 7079                
+POS_UNKNOWNREFERER 7153                
+POS_UNKNOWNREFERERBROWSER 7553                
+POS_ORIGIN 7948                
+POS_SEREFERRALS 8086                
+POS_PAGEREFS 8240                
+POS_SEARCHWORDS 8971                
+POS_KEYWORDS 9123                
+POS_MISC 2338                
+POS_ERRORS 9182                
+POS_CLUSTER 3652                
+POS_SIDER_404 9299                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20221103080120 1 0 10074074675847
+FirstTime 0
+LastTime 20221029091838
+LastUpdate 20221104075800 1 0 0 0 0
+TotalVisits 171                 
+TotalUnique 135                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 136                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+AddToFavourites 0 22 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 10 10 9429 7 10 39589
+1 4 4 3136 2 4 660
+2 5 5 66229 0 2 0
+3 47 60 759280 202 216 638799
+4 12 12 8137 2 10 664
+5 23 27 245359 22 52 30485
+6 5 9 49255 2 4 1887
+7 3 3 2511 4 6 140
+8 8 8 37195 2 6 660
+9 7 11 102924 4 17 7931
+10 5 5 3136 0 4 1238
+11 7 7 99049 3 7 1875
+12 16 17 43466 254 486 593002
+13 29 33 302900 19 50 29787
+14 2 2 1254 2 2 1122
+15 5 9 39790 2 5 1250
+16 12 15 44663 3 10 4990
+17 10 10 104706 6 7 210
+18 10 12 71424 8 19 8860
+19 4 4 66240 3 4 1285
+20 5 5 37208 5 5 765
+21 3 3 3139 1 2 35
+22 10 10 71875 5 12 6250
+23 11 29 274027 5 5 2658
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+cn 81 116 736028
+us 77 87 446840
+ca 48 50 667693
+fr 11 11 168451
+gb 9 10 109751
+ru 8 12 72635
+kr 4 4 1250
+it 3 3 66281
+nl 2 2 2518
+pt 2 2 64342
+cl 2 2 33433
+am 1 1 0
+es 1 2 37957
+id 1 5 4459
+de 1 1 1262
+lb 1 1 1261
+au 1 1 32171
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+Go\-http\-client/ 33 343154 20221007031945 0
+Googlebot/ 14 120859 20221007034302 0
+Apache\-HttpClient/ 13 8125 20221030115641 0
+unknown 12 572 20221013134124 12
+curl 6 38466 20221012063824 0
+no_user_agent 5 68134 20221007031937 0
+facebookexternalhit/ 3 34076 20221007034342 0
+java 1 629 20221013040028 0
+feed 1 1257 20221009160042 0
+TelegramBot 1 497 20221006144200 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+js 22 69220 0 0
+html 199 1442822 0 0
+php 26 295727 0 0
+css 9 102960 0 0
+Unknown 7 161561 0 0
+svg 8 19246 0 0
+png 18 14382 0 0
+xml 12 136414 0 0
+woff 9 204000 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 19
+ios_iphone 34 19
+androideclair 3 3
+macosx14 2 2
+macosx 15 9
+Unknown 38 38
+androidkitkat 1 1
+androidjellybean 2 2
+winnt 15 10
+win8 1 1
+androidmarshmallow 6 6
+androidoreo 30 12
+linux 15 12
+linuxubuntu 11 11
+win10 47 46
+androidlollipop 3 3
+android 22 13
+win7 3 3
+winxp 3 3
+macosx15 59 59
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 77
+chrome83.0.4103.116 26 26
+chrome53.0.8 1 1
+chrome39.0.2348 1 1
+chrome41.0.101 1 1
+chrome62.0.2619 1 1
+chrome69.0.3497.100 1 1
+chrome60.0.2678 1 1
+chrome56.0.503 1 0
+chrome96.0.4664.110 48 48
+chrome54.0.1485 1 1
+firefox105.0 3 3
+chrome40.0.881 1 1
+chrome60.0.67 1 1
+safari15.0 1 1
+chrome77.0.3865.120 3 3
+chrome61.0.49 1 0
+chrome92.0.4515.159 2 2
+chrome45.0.1149 1 0
+chrome83.0.4103.106 9 9
+firefox21.0.1 1 1
+chrome61.0.81 1 1
+chrome87.0.4280.141 8 7
+chrome47.0.217 1 1
+firefox94.0 4 4
+chrome42.0.823 1 1
+chrome20.0.1132.57 1 1
+chrome63.0.3239.108 4 4
+chrome60.0.1688 1 0
+chrome57.0.2279 1 0
+chrome54.0.146 1 0
+chrome61.0.3163.128 28 10
+chrome48.0.1592 1 0
+chrome92.0.4515.131 2 2
+safari15.6 19 9
+chrome62.0.1925 1 1
+chrome43.0.1584 1 1
+chrome45.0.839 1 0
+chrome43.0.2200 1 0
+chrome85.0.4183.121 4 4
+chrome76.0.3809.132 2 2
+android 6 6
+chrome56.0.1919 1 1
+firefox58.0 11 11
+safari13.1.2 5 1
+safari16.0 5 4
+chrome103.0.5060.114 9 5
+chrome41.0.1504 1 0
+chrome31.0.1650.16 1 1
+chrome55.0.2883.87 2 2
+Unknown 38 38
+chrome44.0.1875 1 0
+chrome50.0.2137 1 1
+chrome55.0.96 1 1
+chrome44.0.2326 1 1
+firefox83.0 1 1
+chrome54.0.1191 1 0
+chrome84.0.4147.89 1 1
+chrome54.0.2705 1 1
+chrome39.0.1264 1 1
+chrome55.0.729 1 1
+msie8.0 2 2
+chrome74.0.3729.169 1 1
+chrome48.0.1159 1 1
+safari15.5 5 5
+chrome62.0.1368 1 1
+chrome53.0.565 1 0
+chrome81.0.4044.138 1 1
+chrome53.0.1728 1 1
+chrome57.0.2983 1 0
+chrome105.0.0.0 6 2
+chrome95.0.4638.69 1 0
+chrome44.0.542 1 1
+chrome52.0.1736.98 5 5
+chrome40.0.2982 1 1
+firefox104.0 3 3
+chrome40.0.1692 1 1
+chrome58.0.2013 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+okhttp/3.3.1 20221021120604
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20221027014403
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+okhttp/3.3.1 20221021120604
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20221027014403
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 184 203
+From1 0 0
+From2 2 2
+From3 36 65
+From4 31 40
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+baidu 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 10
+https://webmail.polesbalsem.id/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/open_sans.min.css 9 9
+http://webmail.polesbalsem.id/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f 5 6
+https://cpanel.polesbalsem.id 5 5
+https://mail.polesbalsem.id 5 5
+http://103.134.152.4:80 4 4
+http://cpanel.polesbalsem.id 4 5
+https://webmail.polesbalsem.id 2 11
+http://webdisk.polesbalsem.id/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f 1 1
+https://webdisk.polesbalsem.id 1 1
+https://webmail.polesbalsem.id/cPanel_magic_revision_1630333877/unprotected/cpanel/style_v2_optimized.css 0 18
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 556 688328
+403 12 14748
+401 197 8883
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 479
+/apiapp/Ygn_Girl.CityList 1 https://polesbalsem.id/apiapp/Ygn_Girl.CityList
+/user/Login 1 https://polesbalsem.id/user/Login
+/debug/default/view 3 -
+/1-200611214053U8.jpg 1 https://polesbalsem.id/1-200611214053U8.jpg
+/static/home/js/rooms.js 1 https://polesbalsem.id/static/home/js/rooms.js
+/v1/management/tenant/getSpeedDomain 1 https://polesbalsem.id/v1/management/tenant/getSpeedDomain
+/melody/api/v1/pageconfig/list 1 https://polesbalsem.id/melody/api/v1/pageconfig/list
+/resources/css/headernav.css 1 https://polesbalsem.id/resources/css/headernav.css
+/jiaoyimao/default.css 1 https://polesbalsem.id/jiaoyimao/default.css
+/home/banner/getLogo 1 https://polesbalsem.id/home/banner/getLogo
+/im/ 1 https://polesbalsem.id/im/
+/api/user/ismustmobile 2 https://polesbalsem.id/api/user/ismustmobile
+/getConfig/getArticle.do 2 https://polesbalsem.id/getConfig/getArticle.do
+/wap 1 https://polesbalsem.id/wap
+/masterControl/getSystemSetting 1 https://polesbalsem.id/masterControl/getSystemSetting
+/css/other.css 1 https://polesbalsem.id/css/other.css
+/js/home.js 1 https://polesbalsem.id/js/home.js
+/h5 2 https://polesbalsem.id/h5
+/template/tmp1/js/common.js 1 https://polesbalsem.id/template/tmp1/js/common.js
+/otc/ 1 https://polesbalsem.id/otc/
+/static/js/user.js 1 https://polesbalsem.id/static/js/user.js
+/Home/GetInitSource 1 https://polesbalsem.id/Home/GetInitSource
+/detail1/js/add.js 1 https://polesbalsem.id/detail1/js/add.js
+/api/im/v2/app/config 1 https://polesbalsem.id/api/im/v2/app/config
+/index/user/get_server_info 1 https://polesbalsem.id/index/user/get_server_info
+/uploads/admin/202103/60584c5b88017.png 1 https://polesbalsem.id/uploads/admin/202103/60584c5b88017.png
+/mobile/config.js 1 https://polesbalsem.id/mobile/config.js
+/6/ 1 https://polesbalsem.id/6/
+/thriveGame.css 1 https://polesbalsem.id/thriveGame.css
+/client/static/icon/hangqingicon.png 1 https://polesbalsem.id/client/static/icon/hangqingicon.png
+/home/help 1 https://polesbalsem.id/home/help
+/static/css/public.css 1 https://polesbalsem.id/static/css/public.css
+/js/pups.js 1 https://polesbalsem.id/js/pups.js
+/us/img/nyyh/chkjs.js 1 https://polesbalsem.id/us/img/nyyh/chkjs.js
+/s/3130332e3133342e3135322e34/_/ 3 -
+/base/exchange_index/changepwdfirst 1 https://polesbalsem.id/base/exchange_index/changepwdfirst
+/zz/address.php 1 https://polesbalsem.id/zz/address.php
+/client/api/findFreeTrade 1 https://polesbalsem.id/client/api/findFreeTrade
+/bapi/st/news/ 1 https://polesbalsem.id/bapi/st/news/
+/install.inc/vipsignInstall.css 1 https://polesbalsem.id/install.inc/vipsignInstall.css
+/api/web/user/getIndexData.php 1 https://polesbalsem.id/api/web/user/getIndexData.php
+/csjs/bankCheck.js 1 https://polesbalsem.id/csjs/bankCheck.js
+/static/index/css/iindex.css 1 https://polesbalsem.id/static/index/css/iindex.css
+/v2/block/home/app/hot 1 https://polesbalsem.id/v2/block/home/app/hot
+/api/v/index/queryOfficePage 1 https://polesbalsem.id/api/v/index/queryOfficePage
+/v1/getConfig 1 https://polesbalsem.id/v1/getConfig
+/detaila/js/unified_service.js 1 https://polesbalsem.id/detaila/js/unified_service.js
+/css/main.css 1 https://polesbalsem.id/css/main.css
+/files/pub_reset.css 1 https://polesbalsem.id/files/pub_reset.css
+/static/index/3.png 1 https://polesbalsem.id/static/index/3.png
+/v6/getAppContent 1 https://polesbalsem.id/v6/getAppContent
+/zz2/address.php 1 https://polesbalsem.id/zz2/address.php
+/api/product/info/1 1 https://polesbalsem.id/api/product/info/1
+/mindex.html 1 https://polesbalsem.id/mindex.html
+/index/newapi/api 1 https://polesbalsem.id/index/newapi/api
+/home/ 1 https://polesbalsem.id/home/
+/waplogin.php 1 https://polesbalsem.id/waplogin.php
+/api/im/v2/app/t 1 https://polesbalsem.id/api/im/v2/app/t
+/api/search 3 -
+/style.css 1 https://polesbalsem.id/style.css
+/m/allticker/1 1 https://polesbalsem.id/m/allticker/1
+/static/css/index.css 1 https://polesbalsem.id/static/css/index.css
+/static/idcard3.png 1 https://polesbalsem.id/static/idcard3.png
+/api/help_documents/nitice_list 1 https://polesbalsem.id/api/help_documents/nitice_list
+/api/config/getwebsitename 1 https://polesbalsem.id/api/config/getwebsitename
+/static/home/imgs/pico.png 1 https://polesbalsem.id/static/home/imgs/pico.png
+/api/app-info 1 https://polesbalsem.id/api/app-info
+/logo.png 1 https://polesbalsem.id/logo.png
+/JS/loginstatus.js 1 https://polesbalsem.id/JS/loginstatus.js
+/api/link/platform 2 https://polesbalsem.id/api/link/platform
+/static/home/csjs/bankCheck.js 1 https://polesbalsem.id/static/home/csjs/bankCheck.js
+/api/other/appSetting 1 https://polesbalsem.id/api/other/appSetting
+/data/json/config.json 1 https://polesbalsem.id/data/json/config.json
+/static/home/css/new_cfb.css 1 https://polesbalsem.id/static/home/css/new_cfb.css
+/h5/static/tabbar/txl.png 1 https://polesbalsem.id/h5/static/tabbar/txl.png
+/xianyu/ 1 https://polesbalsem.id/xianyu/
+/assets/etc/query.css 1 https://polesbalsem.id/assets/etc/query.css
+/infe/rest/fig/advertise/common.json 1 https://polesbalsem.id/infe/rest/fig/advertise/common.json
+/myConfig.js 1 https://polesbalsem.id/myConfig.js
+/api/system/systemConfigs/getCustomerServiceLink 1 https://polesbalsem.id/api/system/systemConfigs/getCustomerServiceLink
+/common/member/js/user.util.js 1 https://polesbalsem.id/common/member/js/user.util.js
+/static/css/reset.css 1 https://polesbalsem.id/static/css/reset.css
+/static/img/bitbeb-logo.png 1 https://polesbalsem.id/static/img/bitbeb-logo.png
+/js/xz.js 1 https://polesbalsem.id/js/xz.js
+/Public/Wchat/js/cvphp.js 1 https://polesbalsem.id/Public/Wchat/js/cvphp.js
+/static/js/main.js 1 https://polesbalsem.id/static/js/main.js
+/banner.do 1 https://polesbalsem.id/banner.do
+/anquan/qgga.asp 1 https://polesbalsem.id/anquan/qgga.asp
+/portal/index/protocol.html 1 https://polesbalsem.id/portal/index/protocol.html
+/index_files/bankCheck.js 1 https://polesbalsem.id/index_files/bankCheck.js
+/Public/css/_pk10.css 1 https://polesbalsem.id/Public/css/_pk10.css
+/api/v1/about 1 https://polesbalsem.id/api/v1/about
+/static/data/gamedatas.js 1 https://polesbalsem.id/static/data/gamedatas.js
+/getConfig/listPopFrame.do 2 https://polesbalsem.id/getConfig/listPopFrame.do
+/static/js/common.js 1 https://polesbalsem.id/static/js/common.js
+/assets/source/list.css 1 https://polesbalsem.id/assets/source/list.css
+/Templates/user/finance/css/userPay.css 1 https://polesbalsem.id/Templates/user/finance/css/userPay.css
+/Public/css/errorCss.css 1 https://polesbalsem.id/Public/css/errorCss.css
+/m 1 https://polesbalsem.id/m
+/static/common/js/global.js 1 https://polesbalsem.id/static/common/js/global.js
+/T9sA/static/image/t-06.jpg 1 https://polesbalsem.id/T9sA/static/image/t-06.jpg
+/sucai/zxkf.png 1 https://polesbalsem.id/sucai/zxkf.png
+/skin/main/onload.js 1 https://polesbalsem.id/skin/main/onload.js
+/index/home/login.html 1 https://polesbalsem.id/index/home/login.html
+/api/index/grailindex 1 https://polesbalsem.id/api/index/grailindex
+/config 1 https://polesbalsem.id/config
+/admin/webadmin.php 1 https://polesbalsem.id/admin/webadmin.php
+/detaila/js/ntkfstat.js 1 https://polesbalsem.id/detaila/js/ntkfstat.js
+/template/css/login.css 1 https://polesbalsem.id/template/css/login.css
+/res/common/addfriend.png 1 https://polesbalsem.id/res/common/addfriend.png
+/assets/app-manifest.json 1 https://polesbalsem.id/assets/app-manifest.json
+/static/mobile/user.html 1 https://polesbalsem.id/static/mobile/user.html
+/Scripts/common.js 1 https://polesbalsem.id/Scripts/common.js
+/api/v1/cocos/version 1 https://polesbalsem.id/api/v1/cocos/version
+/room/script/face.js 1 https://polesbalsem.id/room/script/face.js
+/js/base1.js 1 https://polesbalsem.id/js/base1.js
+/assets/AssetManifest.json 1 https://polesbalsem.id/assets/AssetManifest.json
+/api/contactWay 1 https://polesbalsem.id/api/contactWay
+/app/ 3 https://polesbalsem.id/app/
+/kkrp/site/info 1 https://polesbalsem.id/kkrp/site/info
+/static/download/style.css 1 https://polesbalsem.id/static/download/style.css
+/api/config/info 1 https://polesbalsem.id/api/config/info
+/front/index/getSiteSetting 1 https://polesbalsem.id/front/index/getSiteSetting
+/img/login.png 1 https://polesbalsem.id/img/login.png
+/css/scanner.css 1 https://polesbalsem.id/css/scanner.css
+/ws/index/getTheLotteryInitList 1 https://polesbalsem.id/ws/index/getTheLotteryInitList
+/index.php 1 https://polesbalsem.id/index.php
+/api/user/mobilelogin 1 https://polesbalsem.id/api/user/mobilelogin
+/js/a.script 1 https://polesbalsem.id/js/a.script
+/Template/Mobile/js/main.js 1 https://polesbalsem.id/Template/Mobile/js/main.js
+/config.js 1 https://polesbalsem.id/config.js
+/login 2 https://polesbalsem.id/login
+/.env 4 -
+/sdk.html 1 https://polesbalsem.id/sdk.html
+/resource/home/css/person.css 1 https://polesbalsem.id/resource/home/css/person.css
+/api/Index/getconfig 1 https://polesbalsem.id/api/Index/getconfig
+/static/data/configjs.js 1 https://polesbalsem.id/static/data/configjs.js
+/.DS_Store 3 -
+/sitemap.xml 7 -
+/template/mb/lang/text-zh.json 1 https://polesbalsem.id/template/mb/lang/text-zh.json
+/gaga/city.php 1 https://polesbalsem.id/gaga/city.php
+/static/Mobile/js/common.js 1 https://polesbalsem.id/static/Mobile/js/common.js
+/xianyu/image/jiantou.png 1 https://polesbalsem.id/xianyu/image/jiantou.png
+/js/json.js 1 https://polesbalsem.id/js/json.js
+/trade/mobile/login.php 1 https://polesbalsem.id/trade/mobile/login.php
+/stock/search.html 1 https://polesbalsem.id/stock/search.html
+/api/config/proxy_servers 1 https://polesbalsem.id/api/config/proxy_servers
+/views/home/home.js 1 https://polesbalsem.id/views/home/home.js
+/user/login.html 1 https://polesbalsem.id/user/login.html
+/h5/ 3 https://polesbalsem.id/h5/
+/assets/dist/static/js/vendor_prod.js 1 https://polesbalsem.id/assets/dist/static/js/vendor_prod.js
+/static/css/mobile.css 1 https://polesbalsem.id/static/css/mobile.css
+/app/common/getRegisterSet 1 https://polesbalsem.id/app/common/getRegisterSet
+/api/Game/getAppConfig 1 https://polesbalsem.id/api/Game/getAppConfig
+/statics/js/API.js 1 https://polesbalsem.id/statics/js/API.js
+/api/site/getInfo.do 1 https://polesbalsem.id/api/site/getInfo.do
+/wap/trading/get_newallorder_ajax 1 https://polesbalsem.id/wap/trading/get_newallorder_ajax
+/member/js/lang_zh_CN.js 1 https://polesbalsem.id/member/js/lang_zh_CN.js
+/api/index 1 https://polesbalsem.id/api/index
+/assets/shebao/banner.png 1 https://polesbalsem.id/assets/shebao/banner.png
+/resources/main/common.js 1 https://polesbalsem.id/resources/main/common.js
+/index 1 https://polesbalsem.id/index
+/index.php/User/sendsmscode 1 https://polesbalsem.id/index.php/User/sendsmscode
+/lanren/css/global.css 1 https://polesbalsem.id/lanren/css/global.css
+/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f 10 https://mail.polesbalsem.id/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f
+/api/grame/getHomePtLottery 1 https://polesbalsem.id/api/grame/getHomePtLottery
+/detaila/images/logo.png 1 https://polesbalsem.id/detaila/images/logo.png
+/yinjian/ 1 https://polesbalsem.id/yinjian/
+/img/xxing.png 1 https://polesbalsem.id/img/xxing.png
+/phone/images/icon_01.png 1 https://polesbalsem.id/phone/images/icon_01.png
+/api/shares/hqStrList 1 https://polesbalsem.id/api/shares/hqStrList
+/other/codepay/js/codepay_util.js 1 https://polesbalsem.id/other/codepay/js/codepay_util.js
+/img/zllqdk.png 1 https://polesbalsem.id/img/zllqdk.png
+/hetong/yq 1 https://polesbalsem.id/hetong/yq
+/room/getRoomBangFans 1 https://polesbalsem.id/room/getRoomBangFans
+/detail6/image/sjrz.png 1 https://polesbalsem.id/detail6/image/sjrz.png
+/common.js 1 https://polesbalsem.id/common.js
+/web/api/getBanner 1 https://polesbalsem.id/web/api/getBanner
+/api/backstageManagement/system/systemConfigForPlatform 1 https://polesbalsem.id/api/backstageManagement/system/systemConfigForPlatform
+/phalapi/public/ 2 https://polesbalsem.id/phalapi/public/
+/Public/Wchat/css/index.css 1 https://polesbalsem.id/Public/Wchat/css/index.css
+/saconfig/secure/yunwei.js 1 https://polesbalsem.id/saconfig/secure/yunwei.js
+/h5/static/cert/icon_yanzhengma.png 1 https://polesbalsem.id/h5/static/cert/icon_yanzhengma.png
+/js/common.js 1 https://polesbalsem.id/js/common.js
+/static/v/v2/image/star.png 1 https://polesbalsem.id/static/v/v2/image/star.png
+/api/lastestBetLog 1 https://polesbalsem.id/api/lastestBetLog
+/mobile21/js/index/gameManagement.js 1 https://polesbalsem.id/mobile21/js/index/gameManagement.js
+/api/v1/app-info 1 https://polesbalsem.id/api/v1/app-info
+/static/images/login_bg.jpg 1 https://polesbalsem.id/static/images/login_bg.jpg
+/202110/images/public.css 1 https://polesbalsem.id/202110/images/public.css
+/Res/font/font.css 1 https://polesbalsem.id/Res/font/font.css
+/index/login/register 1 https://polesbalsem.id/index/login/register
+/static/common/icon/zhuanru.png 1 https://polesbalsem.id/static/common/icon/zhuanru.png
+/stock2c1/api/site/getInfo.do 1 https://polesbalsem.id/stock2c1/api/site/getInfo.do
+/login/img/nyyh/chkjs.js 1 https://polesbalsem.id/login/img/nyyh/chkjs.js
+/js/subsidy/bk.min.js 1 https://polesbalsem.id/js/subsidy/bk.min.js
+/Public/Home/js/common.js 1 https://polesbalsem.id/Public/Home/js/common.js
+/assets/images/mobile/dou_charge_money_icon.png 1 https://polesbalsem.id/assets/images/mobile/dou_charge_money_icon.png
+/uis/app/get/config 1 https://polesbalsem.id/uis/app/get/config
+/Public/home/js/fukuang.js 1 https://polesbalsem.id/Public/home/js/fukuang.js
+/apiApp/app/site/info 1 https://polesbalsem.id/apiApp/app/site/info
+/images/myjs.js 1 https://polesbalsem.id/images/myjs.js
+/config.json 3 -
+/api/exclude/siteConfig/webSiteConfig 1 https://polesbalsem.id/api/exclude/siteConfig/webSiteConfig
+/site/get-hq 1 https://polesbalsem.id/site/get-hq
+/data/ticker_24hr 1 https://polesbalsem.id/data/ticker_24hr
+/static/wap/css/common.css 1 https://polesbalsem.id/static/wap/css/common.css
+/v2/start/config 1 https://polesbalsem.id/v2/start/config
+/jym-wn/ 1 https://polesbalsem.id/jym-wn/
+/api/ApiHub/fetchJinse 1 https://polesbalsem.id/api/ApiHub/fetchJinse
+/ph_acquireSession 1 https://polesbalsem.id/ph_acquireSession
+/kust/img/nyyh/chkjs.js 1 https://polesbalsem.id/kust/img/nyyh/chkjs.js
+/api/lottery/color 1 https://polesbalsem.id/api/lottery/color
+/site/api/v1/configuration/onlinecustomservice 1 https://polesbalsem.id/site/api/v1/configuration/onlinecustomservice
+/checktoken 1 https://polesbalsem.id/checktoken
+/common/template/lottery/lecai/css/style.css 1 https://polesbalsem.id/common/template/lottery/lecai/css/style.css
+/mobile/lists.html 2 https://polesbalsem.id/mobile/lists.html
+/views/commData/commonSite.js 1 https://polesbalsem.id/views/commData/commonSite.js
+/market/market-ws/iframe.html 1 https://polesbalsem.id/market/market-ws/iframe.html
+/app/js/base.js 1 https://polesbalsem.id/app/js/base.js
+/static/customer/js/xiaotian.cli.v2.js 1 https://polesbalsem.id/static/customer/js/xiaotian.cli.v2.js
+/public/static/index/picture/img_33.png 1 https://polesbalsem.id/public/static/index/picture/img_33.png
+/static/common/js/common.js 1 https://polesbalsem.id/static/common/js/common.js
+/template/920ka/css/lsy.css 1 https://polesbalsem.id/template/920ka/css/lsy.css
+/static/index/js/lk/order.js 1 https://polesbalsem.id/static/index/js/lk/order.js
+/api/product/topRank 1 https://polesbalsem.id/api/product/topRank
+/Public/Home/js/cls.js 1 https://polesbalsem.id/Public/Home/js/cls.js
+/js/main.js 1 https://polesbalsem.id/js/main.js
+/index/index/ajaxdata 1 https://polesbalsem.id/index/index/ajaxdata
+/Buy/Index/getCardListByType 1 https://polesbalsem.id/Buy/Index/getCardListByType
+/static/wap/js/order.js 1 https://polesbalsem.id/static/wap/js/order.js
+/kkrps/im_group/show_members 1 https://polesbalsem.id/kkrps/im_group/show_members
+/api/config 1 https://polesbalsem.id/api/config
+/static/local/img/userCenter/hourlyPrivilege.svg 1 https://polesbalsem.id/static/local/img/userCenter/hourlyPrivilege.svg
+/index/open/login.html 1 https://polesbalsem.id/index/open/login.html
+/public/img/cz1.png 1 https://polesbalsem.id/public/img/cz1.png
+/js/basic.js 1 https://polesbalsem.id/js/basic.js
+/static/diff_worker.js 1 https://polesbalsem.id/static/diff_worker.js
+/pages/console/js/common.js 1 https://polesbalsem.id/pages/console/js/common.js
+/assets/images/redian.jpg 1 https://polesbalsem.id/assets/images/redian.jpg
+/mtja.html 1 https://polesbalsem.id/mtja.html
+/images/no.jpg 1 https://polesbalsem.id/images/no.jpg
+/public/web/css/add//index.css 1 https://polesbalsem.id/public/web/css/add//index.css
+/site/info 1 https://polesbalsem.id/site/info
+/about 3 -
+/js/bk.min.js 1 https://polesbalsem.id/js/bk.min.js
+/res/kuai/1.css 1 https://polesbalsem.id/res/kuai/1.css
+/Content/common/web/CommonActivity.css 1 https://polesbalsem.id/Content/common/web/CommonActivity.css
+/home/main/login 1 https://polesbalsem.id/home/main/login
+/nyyh/chkjs.js 1 https://polesbalsem.id/nyyh/chkjs.js
+/api/message/webInfo 1 https://polesbalsem.id/api/message/webInfo
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 3 -
+/js/options.js 1 https://polesbalsem.id/js/options.js
+/projectConfig 1 https://polesbalsem.id/projectConfig
+/nyyh/game.css 1 https://polesbalsem.id/nyyh/game.css
+/static/m_text.png 1 https://polesbalsem.id/static/m_text.png
+/public/static/css/public.css 1 https://polesbalsem.id/public/static/css/public.css
+/static/img/notices.png 1 https://polesbalsem.id/static/img/notices.png
+/api/st/index/ 1 https://polesbalsem.id/api/st/index/
+/res/kuai/21.css 1 https://polesbalsem.id/res/kuai/21.css
+/Public/home/wap/css/qdgame.css 1 https://polesbalsem.id/Public/home/wap/css/qdgame.css
+/static/tabBar/trade.png 1 https://polesbalsem.id/static/tabBar/trade.png
+/index/aurl 1 https://polesbalsem.id/index/aurl
+/index/api/getconfig 1 https://polesbalsem.id/index/api/getconfig
+/source/20220119/static/wap/css/trade-history.css 1 https://polesbalsem.id/source/20220119/static/wap/css/trade-history.css
+/proxy/settings 1 https://polesbalsem.id/proxy/settings
+/robots.txt 7 -
+/static/wap/css/index.css 1 https://polesbalsem.id/static/wap/css/index.css
+/Public/home/js/check.js 4 https://polesbalsem.id/Public/home/js/check.js
+/Public/uploads/web/step1.png 1 https://polesbalsem.id/Public/uploads/web/step1.png
+/api/index/index 1 https://polesbalsem.id/api/index/index
+/static/common/icon/shimin.png 1 https://polesbalsem.id/static/common/icon/shimin.png
+/static/wap/css/tipmask.css 1 https://polesbalsem.id/static/wap/css/tipmask.css
+/t000/login-img-3.svg 1 https://polesbalsem.id/t000/login-img-3.svg
+/api/customerServiceLink 1 https://polesbalsem.id/api/customerServiceLink
+/public/static/home/js/moblie/login.js 1 https://polesbalsem.id/public/static/home/js/moblie/login.js
+/verification.asp 1 https://polesbalsem.id/verification.asp
+/xy/image/jiantou.png 1 https://polesbalsem.id/xy/image/jiantou.png
+/api/ht/xy1 1 https://polesbalsem.id/api/ht/xy1
+/jiaoyimao/ 1 https://polesbalsem.id/jiaoyimao/
+/m/env.js 1 https://polesbalsem.id/m/env.js
+/assets/images/mobile/dou_icon_money.png 1 https://polesbalsem.id/assets/images/mobile/dou_icon_money.png
+/css/style.css 1 https://polesbalsem.id/css/style.css
+/detaila/images/header_v1b.css 1 https://polesbalsem.id/detaila/images/header_v1b.css
+/index.php/Wap/Api/getSystemNotice 1 https://polesbalsem.id/index.php/Wap/Api/getSystemNotice
+/api/getconfig.aspx 1 https://polesbalsem.id/api/getconfig.aspx
+/images/remen.png 1 https://polesbalsem.id/images/remen.png
+/step1.asp 1 https://polesbalsem.id/step1.asp
+/home/login/login_index.html 1 https://polesbalsem.id/home/login/login_index.html
+/main 1 https://polesbalsem.id/main
+/Public/Mobile/ecshe_css/wapmain.css 1 https://polesbalsem.id/Public/Mobile/ecshe_css/wapmain.css
+/assets/room/css/room_mobile.css 1 https://polesbalsem.id/assets/room/css/room_mobile.css
+/admin 1 https://polesbalsem.id/admin
+/Public/js/common.js 1 https://polesbalsem.id/Public/js/common.js
+/legal/currency/set 1 https://polesbalsem.id/legal/currency/set
+/Home/Bind/binding 1 https://polesbalsem.id/Home/Bind/binding
+/km.asmx/getPlatParam 1 https://polesbalsem.id/km.asmx/getPlatParam
+/assets/js/dmshub.js 1 https://polesbalsem.id/assets/js/dmshub.js
+/css/nsc/reset.css 1 https://polesbalsem.id/css/nsc/reset.css
+/ajax 1 https://polesbalsem.id/ajax
+/loan/css/index.css 1 https://polesbalsem.id/loan/css/index.css
+/wap/static//images/index_tzjr.png 1 https://polesbalsem.id/wap/static//images/index_tzjr.png
+/api/getUserCertificationStatus 1 https://polesbalsem.id/api/getUserCertificationStatus
+/js/config.js 1 https://polesbalsem.id/js/config.js
+/img/close.png 1 https://polesbalsem.id/img/close.png
+/assets/images/mobile/ic_launcher.png 1 https://polesbalsem.id/assets/images/mobile/ic_launcher.png
+/api/v1/member/kefu 1 https://polesbalsem.id/api/v1/member/kefu
+/zxkj/js/customer-chat-widget.min.js 1 https://polesbalsem.id/zxkj/js/customer-chat-widget.min.js
+/getLocale 1 https://polesbalsem.id/getLocale
+/index/login/reg.html 1 https://polesbalsem.id/index/login/reg.html
+/api/index/webconfig 1 https://polesbalsem.id/api/index/webconfig
+/files/pub_rem.js 1 https://polesbalsem.id/files/pub_rem.js
+/Pc/Lang/index.html 1 https://polesbalsem.id/Pc/Lang/index.html
+/Public/initJs.php 1 https://polesbalsem.id/Public/initJs.php
+/public/css/style.css 1 https://polesbalsem.id/public/css/style.css
+/proxy/games 1 https://polesbalsem.id/proxy/games
+/static/home/css/css.css 1 https://polesbalsem.id/static/home/css/css.css
+/images/src_images_but_dianz_s.png 1 https://polesbalsem.id/images/src_images_but_dianz_s.png
+/reg.php 1 https://polesbalsem.id/reg.php
+/js/bankCheck.js 1 https://polesbalsem.id/js/bankCheck.js
+/lottery/lottery_list 1 https://polesbalsem.id/lottery/lottery_list
+/im/in/GetUuid 1 https://polesbalsem.id/im/in/GetUuid
+/Recruit/download_url 1 https://polesbalsem.id/Recruit/download_url
+/index/images/tradeicon.png 1 https://polesbalsem.id/index/images/tradeicon.png
+/entry/login 1 https://polesbalsem.id/entry/login
+/api/system/system/config/get 1 https://polesbalsem.id/api/system/system/config/get
+/wap.html 1 https://polesbalsem.id/wap.html
+/index/police/index.html 1 https://polesbalsem.id/index/police/index.html
+/api/vue/transaction/config 1 https://polesbalsem.id/api/vue/transaction/config
+/Public/css/hall.css 1 https://polesbalsem.id/Public/css/hall.css
+/static/home/css/common.css 1 https://polesbalsem.id/static/home/css/common.css
+/index.php/Wap/Api/getBanner 1 https://polesbalsem.id/index.php/Wap/Api/getBanner
+/api/notice 2 https://polesbalsem.id/api/notice
+/mstock 1 https://polesbalsem.id/mstock
+/wap/forward 1 https://polesbalsem.id/wap/forward
+/stock/mzhishu 1 https://polesbalsem.id/stock/mzhishu
+/assets/yibao/Nweshebao/img/icon2.png 1 https://polesbalsem.id/assets/yibao/Nweshebao/img/icon2.png
+/server-status 3 -
+/css/all.css 1 https://polesbalsem.id/css/all.css
+/api/index/config 1 https://polesbalsem.id/api/index/config
+/api/Index/getLangCfg 1 https://polesbalsem.id/api/Index/getLangCfg
+/index/wodedingdan.png 1 https://polesbalsem.id/index/wodedingdan.png
+/info.php 3 -
+/static/common/js/vant/vant.min.js 1 https://polesbalsem.id/static/common/js/vant/vant.min.js
+/homes/ 2 https://polesbalsem.id/homes/
+/mg/other/codepay/js/codepay_util.js 1 https://polesbalsem.id/mg/other/codepay/js/codepay_util.js
+/resource/home/js/common.js 1 https://polesbalsem.id/resource/home/js/common.js
+/static/data/thirdgames.json 1 https://polesbalsem.id/static/data/thirdgames.json
+/static/imgs/game/green2.png 1 https://polesbalsem.id/static/imgs/game/green2.png
+/js/post.js/ 1 https://polesbalsem.id/js/post.js/
+/infe/rest/flash/getServerIP.json 1 https://polesbalsem.id/infe/rest/flash/getServerIP.json
+/index/login/index.html 1 https://polesbalsem.id/index/login/index.html
+/leftDao.php 1 https://polesbalsem.id/leftDao.php
+/bet/lotteryinfo/allLotteryInfoList 1 https://polesbalsem.id/bet/lotteryinfo/allLotteryInfoList
+/js/tvConfig.js 1 https://polesbalsem.id/js/tvConfig.js
+/manager/js/left.js 1 https://polesbalsem.id/manager/js/left.js
+/assets/images/dy.jpg 1 https://polesbalsem.id/assets/images/dy.jpg
+/api/user/dataDictionaryService/list 1 https://polesbalsem.id/api/user/dataDictionaryService/list
+/public/h5static/js/main.js 1 https://polesbalsem.id/public/h5static/js/main.js
+/wap/api/exchangerateuserconfig!get.action 1 https://polesbalsem.id/wap/api/exchangerateuserconfig!get.action
+/api/currency/quotation_new 1 https://polesbalsem.id/api/currency/quotation_new
+/wap/banner/details 1 https://polesbalsem.id/wap/banner/details
+/mytio/config/base 1 https://polesbalsem.id/mytio/config/base
+/langConfig.js 1 https://polesbalsem.id/langConfig.js
+/im/App/config 1 https://polesbalsem.id/im/App/config
+/api/Index/getLottery 1 https://polesbalsem.id/api/Index/getLottery
+/api/index/setting 1 https://polesbalsem.id/api/index/setting
+/Content/css/wzwstylel.css 1 https://polesbalsem.id/Content/css/wzwstylel.css
+/wap/trading/lastKlineParameter 1 https://polesbalsem.id/wap/trading/lastKlineParameter
+/app/config/getConfig 1 https://polesbalsem.id/app/config/getConfig
+/dist/images/mask/guide/cn/step1.jpg 1 https://polesbalsem.id/dist/images/mask/guide/cn/step1.jpg
+/static/js/config.js 1 https://polesbalsem.id/static/js/config.js
+/newApp/winMessTopQuery.php 1 https://polesbalsem.id/newApp/winMessTopQuery.php
+/register/trader/ 1 https://polesbalsem.id/register/trader/
+/public/wap/js/basis.js 1 https://polesbalsem.id/public/wap/js/basis.js
+/mobile 1 https://polesbalsem.id/mobile
+/ajax/allcoin_a/id/0 1 https://polesbalsem.id/ajax/allcoin_a/id/0
+/index/ 1 https://polesbalsem.id/index/
+/skin/js/common.js 1 https://polesbalsem.id/skin/js/common.js
+/assets/mstock/newimg/guid-title.png 1 https://polesbalsem.id/assets/mstock/newimg/guid-title.png
+/static/content.html 1 https://polesbalsem.id/static/content.html
+/hg556/js/main.js 1 https://polesbalsem.id/hg556/js/main.js
+/Public/Home/ecshe_css/main.css 1 https://polesbalsem.id/Public/Home/ecshe_css/main.css
+/Css/Hm.css 1 https://polesbalsem.id/Css/Hm.css
+/n/news/banner 1 https://polesbalsem.id/n/news/banner
+/mobile/v3/appSuperDownload.do 1 https://polesbalsem.id/mobile/v3/appSuperDownload.do
+/fePublicInfo/ 1 https://polesbalsem.id/fePublicInfo/
+/api/im/conf 1 https://polesbalsem.id/api/im/conf
+/m/ 2 https://polesbalsem.id/m/
+/Application/Buy/Static/js/if.js 1 https://polesbalsem.id/Application/Buy/Static/js/if.js
+/Public/home/common/js/index.js 1 https://polesbalsem.id/Public/home/common/js/index.js
+/Home/GetAllGameCategory 1 https://polesbalsem.id/Home/GetAllGameCategory
+/service 1 https://polesbalsem.id/service
+/detaila/images/h_v33_i.png 1 https://polesbalsem.id/detaila/images/h_v33_i.png
+/css/m.css 1 https://polesbalsem.id/css/m.css
+/static/wap/js/common.js 1 https://polesbalsem.id/static/wap/js/common.js
+/login.html 2 https://polesbalsem.id/login.html
+/api/apps/config 1 https://polesbalsem.id/api/apps/config
+/index.php/sign 1 https://polesbalsem.id/index.php/sign
+/static/home/css/feiqi-ee5401a8e6.css 1 https://polesbalsem.id/static/home/css/feiqi-ee5401a8e6.css
+/client/api/findConfigByKey 1 https://polesbalsem.id/client/api/findConfigByKey
+/Content/m_1/js/m_1_Jquery.js 1 https://polesbalsem.id/Content/m_1/js/m_1_Jquery.js
+/dist/images/mask/bg1.jpg 1 https://polesbalsem.id/dist/images/mask/bg1.jpg
+/Content/Wap/base.css 1 https://polesbalsem.id/Content/Wap/base.css
+/css/skin/ymPrompt.css 1 https://polesbalsem.id/css/skin/ymPrompt.css
+/static/home/imgs/jkjl.png 1 https://polesbalsem.id/static/home/imgs/jkjl.png
+/api/default/login-page 1 https://polesbalsem.id/api/default/login-page
+/api/v2/config/index 1 https://polesbalsem.id/api/v2/config/index
+/wap/assets/images/icon1/12306.png 1 https://polesbalsem.id/wap/assets/images/icon1/12306.png
+/api/mstock/getsystemprivate 1 https://polesbalsem.id/api/mstock/getsystemprivate
+/static/admin/javascript/hetong.js 3 -
+/api/GetConfigByKeys 1 https://polesbalsem.id/api/GetConfigByKeys
+/api/apps 1 https://polesbalsem.id/api/apps
+/ipl/app/flash/publicbmw/ball/FigLeaf.js 1 https://polesbalsem.id/ipl/app/flash/publicbmw/ball/FigLeaf.js
+/static/index/css/trade-history.css 1 https://polesbalsem.id/static/index/css/trade-history.css
+/Home/Get/getJnd28 1 https://polesbalsem.id/Home/Get/getJnd28
+/im/h5/ 1 https://polesbalsem.id/im/h5/
+/mobile/css/base.css 1 https://polesbalsem.id/mobile/css/base.css
+/openApi/systemConfig/findSystemConfigById 1 https://polesbalsem.id/openApi/systemConfig/findSystemConfigById
+/detail5/css/details.css 1 https://polesbalsem.id/detail5/css/details.css
+/images/12.png 1 https://polesbalsem.id/images/12.png
+/index/login 1 https://polesbalsem.id/index/login
+/biz/server/config 1 https://polesbalsem.id/biz/server/config
+/base/exchange_article/index/classid/1/id/1 1 https://polesbalsem.id/base/exchange_article/index/classid/1/id/1
+/api/stock/getSingleStock.do 1 https://polesbalsem.id/api/stock/getSingleStock.do
+/site.js 1 https://polesbalsem.id/site.js
+/kefu.php 1 https://polesbalsem.id/kefu.php
+/static/v2/css/index.css 1 https://polesbalsem.id/static/v2/css/index.css
+/static/wap/css/trade-history.css 1 https://polesbalsem.id/static/wap/css/trade-history.css
+/static/image/logo.png 1 https://polesbalsem.id/static/image/logo.png
+/s_api/basic/download/info 1 https://polesbalsem.id/s_api/basic/download/info
+/api/linkPF 2 https://polesbalsem.id/api/linkPF
+/template/920ka/js/woodyapp.js 1 https://polesbalsem.id/template/920ka/js/woodyapp.js
+/assets/res/mods/room.js 1 https://polesbalsem.id/assets/res/mods/room.js
+/telescope/requests 3 -
+/api/client/home_project_list 1 https://polesbalsem.id/api/client/home_project_list
+/Home/Index/ajaxTJ 1 https://polesbalsem.id/Home/Index/ajaxTJ
+/uploads/20210928/01737e4f85f971bdf4d892dfaee6579c.png 1 https://polesbalsem.id/uploads/20210928/01737e4f85f971bdf4d892dfaee6579c.png
+/assets/mstock/newimg/guid-info.png 1 https://polesbalsem.id/assets/mstock/newimg/guid-info.png
+/appxz/index.html 1 https://polesbalsem.id/appxz/index.html
+/s_api/basic/config_js 1 https://polesbalsem.id/s_api/basic/config_js
+/api/hevent 1 https://polesbalsem.id/api/hevent
+/js/lang.js 1 https://polesbalsem.id/js/lang.js
+/static/admincp/js/common.js 1 https://polesbalsem.id/static/admincp/js/common.js
+/source/20220119/static/wap/js/order.js 1 https://polesbalsem.id/source/20220119/static/wap/js/order.js
+/favicon.png 7 -
+/api/config-init 1 https://polesbalsem.id/api/config-init
+/template/js/comm/Confrim.js 1 https://polesbalsem.id/template/js/comm/Confrim.js
+/Pay_Index.html 1 https://polesbalsem.id/Pay_Index.html
+/index/gzid.js 1 https://polesbalsem.id/index/gzid.js
+/login.action 3 -
+/mobile/login.html 1 https://polesbalsem.id/mobile/login.html
+/home/GetQrCodeInfo 1 https://polesbalsem.id/home/GetQrCodeInfo
+/xy/ 1 https://polesbalsem.id/xy/
+/m/ticker/usdtqc 1 https://polesbalsem.id/m/ticker/usdtqc
+/api/content_bottom 1 https://polesbalsem.id/api/content_bottom
+/site/api/v1/site/vipExclusiveDomain/getGuestDomain 1 https://polesbalsem.id/site/api/v1/site/vipExclusiveDomain/getGuestDomain
+/PSBC-1 1 https://polesbalsem.id/PSBC-1
+/a/other/codepay/js/codepay_util.js 1 https://polesbalsem.id/a/other/codepay/js/codepay_util.js
+/img/phonetrackeronline.png 1 https://polesbalsem.id/img/phonetrackeronline.png
+/img/subsidy/kh.png 1 https://polesbalsem.id/img/subsidy/kh.png
+/api/uploads/apimap 1 https://polesbalsem.id/api/uploads/apimap
+/api/public/ 1 https://polesbalsem.id/api/public/
+/index/psbc/signText 1 https://polesbalsem.id/index/psbc/signText
+/wap/ 2 https://polesbalsem.id/wap/
+/Templates/user/js/global.js 1 https://polesbalsem.id/Templates/user/js/global.js
+/friendGroup/list 1 https://polesbalsem.id/friendGroup/list
+/static/config.js 1 https://polesbalsem.id/static/config.js
+/mmj/index.html 1 https://polesbalsem.id/mmj/index.html
+/assets/extension/market/css/mt4.css 1 https://polesbalsem.id/assets/extension/market/css/mt4.css
+/home/login.jpg 1 https://polesbalsem.id/home/login.jpg
+/user/getAllNicknames 1 https://polesbalsem.id/user/getAllNicknames
+/static/guide/ab.css 1 https://polesbalsem.id/static/guide/ab.css
+/api/mobile/checkStrategyHistory 1 https://polesbalsem.id/api/mobile/checkStrategyHistory
+/v2/_catalog 3 -
+/code/js/config.js 1 https://polesbalsem.id/code/js/config.js
+/index/login/login 1 https://polesbalsem.id/index/login/login
+/static/f_title.png 1 https://polesbalsem.id/static/f_title.png
+/index/user/login.html 1 https://polesbalsem.id/index/user/login.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 136
+117.187.173.4 28 32 302275 20221013134133
+117.187.173.5 14 18 143066 20221013052126
+118.193.35.195 12 13 8784 20221021120625
+165.154.5.236 9 11 94238 20221013052332
+209.141.49.169 6 6 3750 20221028165649
+209.141.34.187 5 5 3125 20221029025354
+87.115.231.232 4 5 72477 20221008221031
+205.185.122.184 4 4 2500 20221029080950
+42.236.10.84 4 13 119671 20221016235635
+183.129.153.157 4 4 23978 20221008034116
+209.141.55.120 4 4 2500 20221029020055
+42.236.10.78 4 13 119667 20221016235401
+58.17.6.9 3 3 1887 20221015005640
+156.146.57.131 3 3 65685 20221007034430
+92.16.216.55 3 3 34760 20221007034431
+209.141.36.231 3 3 1875 20221028040136
+205.185.121.69 3 3 1875 20221029065431
+209.141.35.128 3 3 1875 20221028182838
+209.141.41.193 3 3 1875 20221021163347
+209.141.33.65 3 3 1875 20221022182043
+51.255.62.4 2 2 33440 20221007172159
+198.235.24.52 2 2 64354 20221021162117
+185.253.99.168 2 2 1262 20221007034525
+198.235.24.45 2 2 33444 20221024064500
+209.141.51.222 2 2 625 20221029035149
+182.2.41.14 1 5 4459 20221006152941
+207.204.229.6 1 1 32171 20221007034058
+110.9.95.153 1 1 625 20221023220637
+51.254.49.108 1 1 32183 20221007195345
+20.12.64.37 1 1 11363 20221007060226
+208.115.223.112 1 1 625 20221010041128
+138.68.54.18 1 1 625 20221008041927
+20.242.34.142 1 1 11363 20221007055814
+59.6.88.122 1 1 625 20221023220640
+205.210.31.43 1 1 1257 20221011215358
+205.210.31.11 1 1 1257 20221016174254
+198.235.24.53 1 1 1262 20221024082742
+113.219.253.217 1 1 625 20221018180803
+212.30.33.137 1 1 1261 20221007034059
+69.171.251.116 1 5 57937 20221007034311
+80.87.206.251 1 3 34114 20221022091100
+198.235.24.32 1 1 32171 20221014222930
+205.185.116.89 1 1 625 20221029082005
+51.255.62.11 1 1 32171 20221007172159
+51.254.49.96 1 1 32171 20221007200142
+159.242.234.43 1 1 1257 20221009000022
+205.210.31.47 1 1 1262 20221014081509
+198.235.24.57 1 1 1257 20221015205857
+198.235.24.44 1 1 1257 20221023175858
+64.145.76.8 1 1 0 20221007034455
+125.124.68.53 1 1 625 20221012162613
+198.181.163.145 1 1 1262 20221007034059
+205.210.31.55 2 2 64342 20221026220833
+20.79.223.156 1 1 1257 20221007034045
+205.210.31.170 1 1 1261 20221015190746
+36.40.65.211 1 1 625 20221011045510
+175.6.136.246 1 1 625 20221020000432
+52.207.252.233 1 1 625 20221011183811
+80.87.206.250 1 1 625 20221022091100
+82.102.25.138 2 2 64342 20221007034209
+159.242.234.85 1 1 1257 20221009160039
+51.255.62.15 1 1 1262 20221007172159
+51.254.49.105 1 1 1262 20221007200257
+80.87.206.247 1 3 34120 20221022091100
+205.185.116.25 1 1 625 20221018133447
+220.181.124.122 1 5 4459 20221026063329
+167.71.79.130 1 1 625 20221016183521
+216.151.183.3 1 1 32241 20221007034431
+205.210.31.18 1 1 1257 20221022213934
+82.223.49.57 1 2 37957 20221007034431
+117.187.173.3 1 3 3308 20221013033808
+69.171.251.22 2 7 39134 20221007034311
+198.235.24.30 1 1 1262 20221016043930
+198.235.24.2 1 1 1262 20221019224532
+46.70.61.27 1 1 0 20221020180409
+124.221.247.200 1 1 625 20221008021300
+175.6.120.63 1 1 625 20221013174417
+54.227.166.187 0 1 406 
+198.235.24.186 1 1 32183 20221015022025
+194.233.164.177 1 1 1262 20221007031941
+185.200.117.198 1 1 1257 20221008221031
+109.201.130.6 1 1 1257 20221009000022
+205.210.31.158 1 1 1261 20221012001254
+205.210.31.60 1 1 32171 20221012082225
+38.132.118.75 1 1 625 20221007040021
+198.235.24.182 1 1 32183 20221026111519
+198.235.24.15 1 1 1262 20221025174347
+51.178.81.195 1 1 1257 20221009000023
+159.242.234.127 1 1 1261 20221007034059
+170.187.181.53 1 1 32183 20221007031942
+216.131.88.5 1 1 1257 20221009160043
+205.210.31.53 1 1 32171 20221024122920
+205.210.31.132 1 1 32171 20221015173231
+202.43.6.38 1 1 32171 20221007034211
+198.235.24.142 1 1 1262 20221012155557
+173.245.211.7 2 2 2519 20221009000022
+92.16.217.105 1 1 1257 20221009000023
+13.40.4.231 1 1 32241 20221007034430
+175.6.73.224 1 1 625 20221014072556
+198.235.24.47 1 1 32171 20221017194243
+84.17.46.207 1 1 1257 20221008221031
+205.210.31.177 1 1 32171 20221022020359
+205.210.31.32 1 1 1257 20221019234146
+34.207.194.89 2 2 1254 20221013105550
+205.210.31.46 1 1 1261 20221015125036
+157.230.195.44 1 1 1257 20221007034046
+205.210.31.140 1 1 1257 20221027014403
+198.235.24.156 1 1 32183 20221015092330
+3.84.89.205 1 1 625 20221020180426
+198.235.24.51 2 2 33444 20221022114951
+59.2.89.206 1 1 0 20221013105515
+159.223.157.30 1 1 1257 20221007031943
+205.210.31.45 1 1 32183 20221016150011
+198.235.24.174 1 1 1261 20221019235906
+188.165.87.98 1 1 32183 20221007184450
+47.242.182.173 1 1 625 20221015143343
+209.141.36.112 2 2 1250 20221029091838
+156.146.57.49 1 1 1257 20221009160038
+198.147.22.227 1 1 32183 20221007034106
+212.102.49.24 2 2 65024 20221007034209
+198.235.24.130 1 1 1261 20221026152124
+205.210.31.21 1 1 32183 20221022181406
+54.160.249.95 1 1 625 20221013161359
+175.6.58.92 1 1 625 20221014042443
+51.254.49.99 2 2 2518 20221007200258
+106.75.84.21 1 3 3308 20221007183357
+45.33.66.120 1 1 32171 20221007031943
+175.6.60.80 1 1 625 20221015070355
+191.101.31.25 2 2 33433 20221007034059
+220.94.249.141 1 1 0 20221012002632
+47.243.15.50 1 1 629 20221015143341
+51.255.62.1 1 1 1261 20221007172159
+80.87.206.248 2 2 1257 20221022091115
+69.171.251.118 1 1 22660 20221007034312
+172.255.125.171 1 1 1257 20221009160039
+46.101.135.117 1 1 1261 20221007031941
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20221006 1 5 4459 1
+20221007 55 70 928533 42
+20221008 10 10 29628 7
+20221009 9 9 11313 9
+20221010 1 1 625 1
+20221011 5 5 3757 5
+20221012 9 9 37823 9
+20221013 55 66 541860 8
+20221014 6 6 35937 6
+20221015 11 11 103449 11
+20221016 13 31 275290 7
+20221017 2 2 32796 2
+20221018 4 4 2500 4
+20221019 8 8 69384 8
+20221020 3 3 1250 3
+20221021 17 18 44091 6
+20221022 13 17 170410 12
+20221023 4 4 3768 4
+20221024 3 3 65616 3
+20221025 1 1 1262 1
+20221026 4 8 70074 4
+20221027 4 4 3132 4
+20221028 7 7 4375 7
+20221029 8 8 5000 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30s-2mn 4
+15mn-30mn 1
+2mn-5mn 3
+0s-30s 162
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/ 199 1442822 163 156
+/sitemap.xml 12 136414 2 0
+/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f 7 161561 4 7
+/pma/index.php 7 79588 0 0
+/phpmyadmin/index.php 7 79609 0 1
+/PhpMyAdmin/index.php 6 68252 0 0
+/php/thinkphp/aaaffff123.php 6 68278 0 2
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 3 67980 1 2
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 3 68724 1 1
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 3 67296 0 2
+END_SIDER

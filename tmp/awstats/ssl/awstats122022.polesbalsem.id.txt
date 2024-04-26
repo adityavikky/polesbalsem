@@ -1,0 +1,361 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202212 will be lost/reset.
+# Last config file used to build this data file was /home/polesbal/tmp/awstats/ssl/awstats.polesbalsem.id.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2689                
+POS_VISITOR 7165                
+POS_DAY 7778                
+POS_DOMAIN 3320                
+POS_LOGIN 3610                
+POS_ROBOT 3765                
+POS_WORMS 3967                
+POS_EMAILSENDER 4098                
+POS_EMAILRECEIVER 4241                
+POS_SESSION 8089                
+POS_SIDER 8285                
+POS_FILETYPES 4376                
+POS_DOWNLOADS 4606                
+POS_OS 4654                
+POS_BROWSER 4774                
+POS_SCREENSIZE 4958                
+POS_UNKNOWNREFERER 5032                
+POS_UNKNOWNREFERERBROWSER 5257                
+POS_ORIGIN 5376                
+POS_SEREFERRALS 5515                
+POS_PAGEREFS 5659                
+POS_SEARCHWORDS 6435                
+POS_KEYWORDS 6587                
+POS_MISC 2352                
+POS_ERRORS 6646                
+POS_CLUSTER 3466                
+POS_SIDER_404 6782                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230101032806 3 197 4691016806055
+FirstTime 20221201030150
+LastTime 20221228173542
+LastUpdate 20230101173917 3 0 2 0 0
+TotalVisits 20                  
+TotalUnique 13                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 13                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 11 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 2 2 456
+1 60 75 1188746 12 15 46350
+2 1 1 1962 3 3 491
+3 84 107 2410593 12 12 15059
+4 0 0 0 3 3 491
+5 0 0 0 6 6 1152
+6 0 0 0 2 2 456
+7 0 0 0 2 2 456
+8 0 0 0 8 8 2143
+9 60 76 1205388 11 12 23708
+10 32 42 806180 17 17 7163
+11 43 46 806162 32 32 193415
+12 9 9 1368 6 6 7949
+13 1 1 1123 4 4 696
+14 33 35 627162 11 11 2180
+15 36 48 698208 7 8 1268
+16 9 9 1362 4 6 630
+17 4 4 551 0 0 0
+18 0 0 0 6 6 1475
+19 1 1 0 2 3 456
+20 4 4 38488 1 4 12378
+21 0 0 0 4 4 912
+22 30 31 201444 4 4 791
+23 0 0 0 4 4 912
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+in 252 301 5373661
+id 139 153 2294894
+us 10 29 244316
+gb 5 5 74744
+be 1 1 1122
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+no_user_agent 70 15710 20221231223000 0
+java 29 8248 20221209111601 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+html 24 132433 0 0
+map 6 1297410 0 0
+woff 6 136000 0 0
+jpg 16 1261900 0 0
+png 16 348772 0 0
+svg 3 5931 0 0
+css 21 237947 0 0
+js 26 3630636 0 0
+Unknown 371 937708 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+linuxubuntu 2 2
+linux 394 324
+win10 15 3
+Unknown 78 78
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+firefox104.0 5 5
+chrome107.0.0.0 225 198
+mozilla 1 1
+Unknown 77 77
+firefox105.0 2 2
+chrome108.0.0.0 152 116
+chrome104.0.5112.101 27 8
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20221222202419
+PostmanRuntime/7.29.2 20221209110734
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+PostmanRuntime/7.29.2 20221209110734
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 100 100
+From1 0 0
+From2 0 0
+From3 9 28
+From4 298 361
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+https://cpanel.polesbalsem.id/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/open_sans.min.css 3 3
+https://webmail.polesbalsem.id/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/open_sans.min.css 3 3
+https://mail.polesbalsem.id 1 1
+http://webmail.polesbalsem.id 1 1
+http://cpanel.polesbalsem.id 1 1
+https://webmail.polesbalsem.id/cPanel_magic_revision_1630333877/unprotected/cpanel/style_v2_optimized.css 0 6
+https://webmail.polesbalsem.id 0 3
+https://cpanel.polesbalsem.id/cPanel_magic_revision_1630333877/unprotected/cpanel/style_v2_optimized.css 0 7
+https://cpanel.polesbalsem.id 0 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+404 3 11169
+302 39 7605
+500 7 78868
+401 14 526
+405 1 174360
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 3
+/home 1 https://polesbalsem.id/register
+/api/v1//getToken 1 -
+/api/v1 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 13
+103.213.128.134 178 200 2913810 20221213015210
+103.213.128.138 68 86 1782685 20221207091237
+202.80.218.207 48 48 966243 20221213032439
+36.80.202.198 46 46 17932 20221207170344
+202.80.217.108 33 35 627162 20221207145620
+118.96.136.184 9 9 1368 20221201120427
+205.169.39.63 8 27 242072 20221222032816
+103.213.129.94 6 15 677166 20221215104950
+51.158.37.209 5 5 74744 20221211014546
+202.80.218.116 3 15 682189 20221228173542
+146.190.240.147 1 1 1123 20221224132636
+87.236.176.131 1 1 1122 20221222202419
+159.203.124.15 1 1 1121 20221221113243
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20221201 17 19 578665 2
+20221207 169 188 2051926 4
+20221209 90 96 1560998 3
+20221210 3 3 37366 1
+20221211 1 1 37378 1
+20221213 107 122 2117611 2
+20221215 6 15 677166 1
+20221221 1 1 1121 1
+20221222 9 28 243194 2
+20221224 1 1 1123 1
+20221228 3 15 682189 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+15mn-30mn 3
+0s-30s 10
+2mn-5mn 3
+5mn-15mn 2
+1h+ 1
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 67
+/antrean/data 47 276220 0 4
+/antrean/panggilAntrean 28 10528 0 0
+/ 24 132433 5 5
+/login 16 15301 12 4
+/antrean/createAntrean 15 10964 0 0
+/antrean/antreanPendaftaran 15 80058 0 0
+/api/v1/statusAntrean 15 2587 0 0
+/antrean/updateAntreanPendaftaran 13 741 0 0
+/api/v1/ambilAntrean 13 2918 0 2
+/jadwalPraktek/data 13 92354 0 1
+/antrean/antreanPoli 12 51099 0 0
+/bpjsAntrol/getReferensiJadwalDokter 12 2212 0 0
+/api/v1/getSampleData 12 44712 0 0
+/poli/data 11 85141 0 0
+/jadwalPraktek 9 29704 0 0
+/api/v1/getToken 9 3217 2 0
+/antrean/data/171 9 35962 0 0
+/poli 8 17986 1 1
+/ambilAntreanPendaftaran 7 10088 0 0
+/api/v1/sisaAntrean 7 1128 0 0
+/loket/data 6 15150 0 0
+/antrean/antreanFarmasi 6 23636 0 0
+/plugin/parsleyjs/dist/parsley.min.js.map 6 1297410 0 0
+/dokter 5 12708 0 0
+/api/v1/checkIn 5 296 0 0
+/antrean/data/172 4 11725 0 0
+/antrean/data/163 1 1692 0 0
+/antrean/cetakAntrean/155 1 311 0 0
+/antrean/cetakAntrean/153 1 311 0 0
+/api/v1/jadwalOperasiPasien 4 705 0 0
+/antrean/cetakAntrean/171 1 311 0 0
+/antrean/data/173 2 4555 0 0
+/antrean/cetakAntrean/156 1 312 0 0
+/antrean/data/162 1 1698 0 0
+/antrean/previewAntreanPendaftaran 4 8853 0 1
+/antrean/cetakAntrean/154 1 312 0 0
+/antrean/cetakAntrean/167 1 311 0 0
+/antrean/cetakAntrean/173 1 312 0 0
+/loket 4 10206 0 0
+/api/v1/getSampleDataOperasi 4 652 0 0
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 2 45320 0 0
+/antrean/cetakAntrean/165 1 312 0 0
+/register 1 1748 0 0
+/bpjsVclaim/getRujukanFaskesRS 4 5348 0 0
+/antrean/cetakAntrean/152 1 311 0 0
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 2 44864 0 1
+/antrean/cetakAntrean/168 1 311 0 0
+/antrean/cetakAntrean/157 1 311 0 0
+/antrean/cetakAntrean/172 1 312 0 0
+/api/v1/jadwalOperasiRS 5 800 0 0
+/antrean/data/152 3 9437 0 1
+/antrean/data/159 1 1695 0 0
+/antrean/data/164 3 7680 0 0
+/antrean/data/160 1 1696 0 0
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 2 45816 0 0
+/antrean/data/153 2 6809 0 0
+/antrean/cetakAntrean/158 1 311 0 0
+/bpjsVclaim/getPesertaByNIK 4 3076 0 0
+/jadwalPraktek/data/14 2 888 0 0
+/api/v1/antrean/batal 2 133 0 0
+/api/v1/infoPasienBaru 1 165 0 0
+/antrean/data/165 1 1608 0 0
+/dokter/data 5 22440 0 0
+/antrean/setAktifLoket 3 762 0 0
+/antrean/cetakAntrean/166 1 311 0 0
+/jadwalPraktek/syncData 1 3957 0 0
+/antrean/cetakAntrean/164 1 311 0 0
+END_SIDER
